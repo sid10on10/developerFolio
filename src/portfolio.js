@@ -7,9 +7,9 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."),
+  username: "Siddhant Singh",
+  title: "Hi all, I'm Siddhant",
+  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Django and some other cool libraries and frameworks."),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
@@ -17,11 +17,11 @@ const greeting = {
 
 const socialMediaLinks = {
 
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  github: "https://github.com/sid10on10",
+  linkedin: "https://www.linkedin.com/in/sid10on10/",
+  gmail: "sid10on10@gmail.com",
+  gitlab: "https://gitlab.com/sid10on10",
+  facebook: "https://www.facebook.com/sid10on10"
   // Instagram and Twitter are also supported in the links!
 };
 
